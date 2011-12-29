@@ -15,7 +15,7 @@ setup(
     description="Provides support for geany's control socket",
     url='https://github.com/EisenSheng/PyGeany',
     classifiers=[
-        'Development Status :: 0.1 - Alpha',
+        'Development Status :: 3 - Alpha',
         'License :: Public Domain',
         'Topic :: Software Development :: Libraries'
     ],
